@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/api/axiosclient.ts","./src/layouts/mainlayout.tsx","./src/pages/home/index.tsx","./src/pages/users/index.tsx","./src/routes/approutes.tsx","./src/services/users.service.ts","./src/types/user.ts"],"version":"5.6.3"}
